@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ibrsec/score-table-bubbling/">
-    <img src="./img/logo.png" alt="Logo" width="200" >
+    <img src="./project.png" alt="Logo" width="200" >
   </a>
 
   <h3 align="center">Score Table with Bubbling</h3>
