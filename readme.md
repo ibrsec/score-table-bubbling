@@ -15,7 +15,7 @@
     <a href="https://github.com/ibrsec/score-table-bubbling"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/score-table-bubbling/">View Demo</a>
+    <a href="https://score-table-bubbling.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/score-table-bubbling/issues">Report Bug</a>
     ·
@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![score-table-bubbling](./project.png)](https://ibrsec.github.io/score-table-bubbling/)
+[![score-table-bubbling](./project.png)](https://score-table-bubbling.vercel.app/)
 
 
 
